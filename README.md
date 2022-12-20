@@ -1,4 +1,5 @@
 <div>
+<div align="center">
 <a href=https://www.instagram.com/kathllynleticia/>  
          
 ![Kathllyn Cabeçario](https://user-images.githubusercontent.com/120657741/208341969-eb7b50a8-365f-4de1-8a3b-817180220ae7.png) 
@@ -13,6 +14,9 @@
 - 🏝 Lugares favoritos Praia|Sitío|Parque|Cinema|Minha Casa
 - 💬 Pergunte-me sobre qualquer coisa [aqui](https://github.com/KathllynLeticia/KathllynLeticia/issues)
 - ⚡ Curiosidades: Amo viajar|Cantar|Música|Séries|Filmes
+
+<head>
+  <title<br /> 
         
  <div align="center">
          
@@ -21,7 +25,8 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathllynleticia&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-    
+    </title>
+ </head>
 
   
  
