@@ -4,8 +4,16 @@
          
 ![Kathllyn Cabeçario](https://user-images.githubusercontent.com/120657741/208341969-eb7b50a8-365f-4de1-8a3b-817180220ae7.png) 
 </div>    
-         
-<a href = "mailto:kathllyn.leticia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+       
+
+ [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+ )](https://wa.me/+551144773033)
+ [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+ )](https://www.instagram.com/kathllynleticia)
+ <a href="https://www.linkedin.com/in/kathllynleticiadesenvolvedora/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:kathllyn.leticia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+     
          
          
          
@@ -19,10 +27,10 @@
         
    
           
-- 🌱 Estudando Desenvolvimento Java Full-Stack|Desing Gráfico Desing|Marketing Digital
-- 🏝 Lugares favoritos Praia|Sitío|Parque|Cinema|Minha Casa
+- 🌱 Estudando Desenvolvimento Java Full-Stack | Desing Gráfico Desing | Marketing Digital
+- 🏝 Lugares favoritos Praia | Sitío | Parque | Cinema | Minha Casa
 - 💬 Pergunte-me sobre qualquer coisa [aqui](https://github.com/KathllynLeticia/KathllynLeticia/issues)
-- ⚡ Curiosidades: Amo viajar|Cantar|Música|Séries|Filmes
+- ⚡ Curiosidades: Amo viajar | Cantar | Música | Séries | Filmes
 
          
          
@@ -34,10 +42,12 @@
  <div align="center">
          
   <a href="https://github.com/kathllynleticia">
- <img height="120em" src="https://github-readme-stats.vercel.app/api?username=kathllynleticia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathllynleticia&layout=compact&langs_count=7&theme=radical"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kathllynleticia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathllynleticia&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+          
+          
 
   
  
