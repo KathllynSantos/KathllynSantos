@@ -20,7 +20,7 @@
  src="https://user-images.githubusercontent.com/120657741/208341925-29f9cf2e-762c-4723-a024-f72e7b2ae8c4.png"> 
  </div>
        
-**Sobre mim**
+## Sobre mim
        
   <div align="left">
          
@@ -35,8 +35,10 @@
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kathllynsantos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathllynsantos&layout=compact&langs_count=7&theme=radical"/>
 </div> 
+       
 
 ## Tecnologias que uso no dia a dia!
+       
        
 <div stayle="display: inline_block"><br/>
 <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
