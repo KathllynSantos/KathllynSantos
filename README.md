@@ -31,7 +31,7 @@
 - 🏝 Lugares favoritos Praia | Sitío | Parque | Cinema | Minha Casa
 - 💬 Pergunte-me sobre qualquer coisa [aqui](https://github.com/KathllynLeticia/KathllynLeticia/issues)
 - ⚡ Curiosidades: Amo viajar | Cantar | Música | Séries | Filmes
-- 👧 Pronouns: Ela/Dela
+
 
          
          
