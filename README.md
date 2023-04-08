@@ -1,9 +1,7 @@
 <div>
 <div align="center">
-<a href=https://www.instagram.com/kathllynleticia/>  
-         
-![Kathllyn Cabeçario](https://user-images.githubusercontent.com/120657741/208341969-eb7b50a8-365f-4de1-8a3b-817180220ae7.png) 
-</div>    
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C41F9B&width=435&lines=Ol%C3%A1!+;Eu+sou+a+Kathllyn+Santos%2C;Desenvolvedora+Web+Full+Stack+Jr.)](https://www.instagram.com/kathllynleticia)
 
        
 
