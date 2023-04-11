@@ -20,7 +20,7 @@
  src="https://user-images.githubusercontent.com/120657741/208341925-29f9cf2e-762c-4723-a024-f72e7b2ae8c4.png"> 
  </div>
        
-## Sobre mim
+## Sobre mim:
        
   <div align="left">
          
