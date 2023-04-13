@@ -30,12 +30,16 @@
 - 💬 Pergunte-me sobre qualquer coisa [aqui](https://github.com/KathllynLeticia/KathllynLeticia/issues)
 - ⚡ Curiosidades: Amo viajar | Cantar | Música | Séries | Filmes
          
-<div align="center">     
-  <a href="https://github.com/kathllynsantos">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kathllynsantos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathllynsantos&layout=compact&langs_count=7&theme=radical"/>
-</div> 
-       
+<div align="center"> 
+ <a href="https://github.com/kathllynsantos/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=kathllynsantos&show_icons=true&include_all_commits=true&theme=radical" alt="Kathllyn Santos github stats" />
+ </a> 
+<a href="https://github.com/kathllynsantos/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathllynsantos&layout=compact&theme=radical" />
+</a> 
+</div>
+<div align="center"> 
+
+
+ <div align="center">       
 
 ## Tecnologias que uso no dia a dia!
        
