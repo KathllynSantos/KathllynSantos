@@ -25,10 +25,10 @@
   <div align="left">
          
          
-- 🌱 Desenvolvedora Web Java Full-Stack | Desing Gráfico Desing | Marketing Digital
+- 🌱 Desenvolvedora Web Java Full Stack | Desing Gráfico | Marketing Digital
 - 🏝 Lugares favoritos Praia | Sitío | Parque | Cinema | Minha Casa
 - 💬 Pergunte-me sobre qualquer coisa [aqui](https://github.com/KathllynLeticia/KathllynLeticia/issues)
-- ⚡ Curiosidades: Amo viajar | Cantar | Música | Séries | Filmes
+- ⚡ Curiosidades: Amo viajar | Cantar | Séries | Filmes
          
 <div align="center"> 
  <a href="https://github.com/kathllynsantos/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=kathllynsantos&show_icons=true&include_all_commits=true&theme=radical" alt="Kathllyn Santos github stats" />
