@@ -1,14 +1,14 @@
 <div>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C41F9B&width=435&lines=Ol%C3%A1!+;Eu+sou+a+Kathllyn+Santos%2C;Desenvolvedora+Web+Full+Stack+Jr.)](https://www.instagram.com/kathllynleticia)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C41F9B&width=435&lines=Ol%C3%A1!+;Eu+sou+a+Kathllyn+Santos%2C;Desenvolvedora+Web+Full+Stack+Jr.)](https://www.instagram.com/devkathlsantos)
 
        
 
  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
  )](https://wa.me/+5511951241321)
  [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
- )](https://www.instagram.com/kathllynleticia)
+ )](https://www.instagram.com/devkathllynsantos)
  <a href="https://www.linkedin.com/in/kathllynleticiadesenvolvedora/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:kathllyn.leticia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
      
