@@ -16,7 +16,7 @@
        
   <div align="left">
        <div>
-              <img align="right" alt="Rafa-pic" height="300" style="border-radius:50px;" 
+              <img align="right" alt="Rafa-pic" height="250" style="border-radius:50px;" 
                src="https://user-images.githubusercontent.com/120657741/208341925-29f9cf2e-762c-4723-a024-f72e7b2ae8c4.png"> 
                </div>
          
