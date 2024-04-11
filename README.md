@@ -10,20 +10,15 @@
  [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
  )](https://www.instagram.com/devkathllynsantos)
  <a href="https://www.linkedin.com/in/kathllynleticiadesenvolvedora/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:kathllyn.leticia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-     
-         
-         
-         
- <div>
- <img align="right" alt="Rafa-pic" height="120" style="border-radius:50px;" 
- src="https://user-images.githubusercontent.com/120657741/208341925-29f9cf2e-762c-4723-a024-f72e7b2ae8c4.png"> 
- </div>
+
        
 ## Sobre mim:
        
   <div align="left">
-         
+       <div>
+              <img align="right" alt="Rafa-pic" height="300" style="border-radius:50px;" 
+               src="https://user-images.githubusercontent.com/120657741/208341925-29f9cf2e-762c-4723-a024-f72e7b2ae8c4.png"> 
+               </div>
          
 - 🌱 Desenvolvedora Web Java Full Stack | Desing Gráfico | Marketing Digital
 - 🏝 Lugares favoritos Praia | Sitío | Parque | Cinema | Minha Casa
