@@ -20,7 +20,7 @@
                src="https://user-images.githubusercontent.com/120657741/208341925-29f9cf2e-762c-4723-a024-f72e7b2ae8c4.png"> 
                </div>
          
-- 🌱 Desenvolvedora Web Java Full Stack | Desing Gráfico | Marketing Digital
+- 🌱 Desenvolvedora Web Java Full Stack |Psciner - 42 São Paulo | Kicker - SouKick
 - 🏝 Lugares favoritos Praia | Sitío | Parque | Cinema | Minha Casa
 - 💬 Pergunte-me sobre qualquer coisa [aqui](https://github.com/KathllynLeticia/KathllynLeticia/issues)
 - ⚡ Curiosidades: Amo viajar | Cantar | Séries | Filmes
