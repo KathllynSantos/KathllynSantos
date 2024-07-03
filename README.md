@@ -26,9 +26,9 @@
 - ⚡ Curiosidades: Amo viajar | Cantar | Séries | Filmes
          
 <div align="center"> 
- <a href="https://github.com/kathllynsantos/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=kathllynsantos&show_icons=true&include_all_commits=true&theme=radical" alt="Kathllyn Santos github stats" />
+ <a href="https://github.com/kathllynsantos/github-readme-stats"><img height="140em" src="https://github-readme-stats.vercel.app/api?username=kathllynsantos&show_icons=true&include_all_commits=true&theme=radical" alt="Kathllyn Santos github stats" />
  </a> 
-<a href="https://github.com/kathllynsantos/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathllynsantos&layout=compact&theme=radical" />
+<a href="https://github.com/kathllynsantos/github-readme-stats"><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathllynsantos&layout=compact&theme=radical" />
 </a> 
 </div>
 <div align="center"> 
